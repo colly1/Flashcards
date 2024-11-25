@@ -21,3 +21,13 @@ criaCartao(
     'Como se dizs oi em inglês?',
     'Oi em inglês é HI (RAI)'
 )
+riaCartao(
+    'Matematica',
+    'Quanto ê 2+2?',
+    '2+2 ê 4'
+)
+riaCartao(
+    'Matematica',
+    'Quanto ê 5+5?',
+    '5+5 ê 10'
+)
